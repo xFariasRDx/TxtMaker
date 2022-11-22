@@ -1,0 +1,11 @@
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\bin\Debug\TxtMaker.exe.config
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\bin\Debug\TxtMaker.exe
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\bin\Debug\TxtMaker.pdb
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.csproj.AssemblyReference.cache
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.Form1.resources
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.Properties.Resources.resources
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.csproj.GenerateResource.cache
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.exe
+C:\Users\Miguel Farias\source\repos\TxtMaker\TxtMaker\obj\Debug\TxtMaker.pdb
